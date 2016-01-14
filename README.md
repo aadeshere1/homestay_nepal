@@ -1,2 +1,2 @@
 # PHP script for homestay app 
-- uses RESTful API
+- uses Slimphp for creating RESTful API
